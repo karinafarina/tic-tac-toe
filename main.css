@@ -1,0 +1,10 @@
+td {
+	border: 1px solid black;
+	height: 150px;
+	width: 150px;
+}
+
+#board tr td:hover { 
+  background: #e4e4e4; 
+  cursor: pointer; 
+}
